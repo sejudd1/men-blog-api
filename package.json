@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/sejudd1/men-blog-api/issues"
   },
-  "homepage": "https://github.com/sejudd1/men-blog-api#readme"
+  "homepage": "https://github.com/sejudd1/men-blog-api#readme",
+  "dependencies": {
+    "body-parser": "^1.14.0",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.8",
+    "morgan": "^1.6.1"
+  }
 }
